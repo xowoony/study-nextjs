@@ -1,5 +1,5 @@
 # study-nextjs
-nextJS 공부를 위한 repo
+NextJS 공부를 위한 repo
 <br>
 <br>
 학습할 내용
