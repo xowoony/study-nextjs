@@ -1,3 +1,7 @@
 export default function About() {
-    return "about you"
+  return (
+    <div>
+      <h1>안녕?</h1>
+    </div>
+  );
 }
